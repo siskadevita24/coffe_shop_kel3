@@ -10,3 +10,7 @@ LAYOUT HOME
 LAYOUT PEMESANAN
 
 ![3_20231116_104225_0002](https://github.com/siskadevita24/coffe_shop_kel3/assets/150652963/40bcccff-f600-4185-aaea-528c8f11cf60)
+
+LAYOUT LAPORAN HARIAN
+
+![4_20231116_104225_0003](https://github.com/siskadevita24/coffe_shop_kel3/assets/150652963/851a9a92-1a10-4836-bcbe-13c31e30904f)
